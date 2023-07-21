@@ -106,6 +106,15 @@
                     "song": "https://raw.githubusercontent.com/izaass/shell/main/src/assets/media/song/1/Slatt%20On/song.mp3",
                     "cover": "https://raw.githubusercontent.com/izaass/shell/main/src/assets/media/song/1/Slatt%20On/song.jpg"
                }
+          },
+          {
+               "bg": "#f4a261",
+               "artist": "Sunset Rollercoaster",
+               "songName": "Vanilla",
+               "files": {
+                    "song": "https://raw.githubusercontent.com/izaass/shell/main/src/assets/media/song/1/Vanilla/Sunset%20Rollercoaster%20%20Vanilla.mp3",
+                    "cover": "https://raw.githubusercontent.com/izaass/shell/default.jpg"
+               }
           }
      ]
 }
