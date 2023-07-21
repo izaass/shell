@@ -77,8 +77,8 @@
       "artist": "Hustlang",
       "songName": "Co Nhieu Dem Anh Buon",
       "files": {
-      "song": "https://github.com/izaass/shell/raw/206283fb62883698041d02623e709872e8dbc66d/src/assets/media/song/1/song.mp3",
-      "cover": "https://github.com/izaass/shell/raw/206283fb62883698041d02623e709872e8dbc66d/src/assets/media/song/1/song.jpg"
+      "song": "https://raw.githubusercontent.com/izaass/shell/main/src/assets/media/song/1/song.mp3",
+      "cover": "https://raw.githubusercontent.com/izaass/shell/main/src/assets/media/song/1/song.jpg"
       }
     }
   ]
