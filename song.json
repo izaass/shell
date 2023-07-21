@@ -112,7 +112,7 @@
                "artist": "Sunset Rollercoaster",
                "songName": "Vanilla",
                "files": {
-                    "song": "https://raw.githubusercontent.com/izaass/shell/main/src/assets/media/song/1/Vanilla/Sunset%20Rollercoaster%20%20Vanilla.mp3",
+                    "song": "https://github.com/izaass/shell/raw/main/src/assets/media/song/1/Vanilla/Sunset%20Rollercoaster%20%20Vanilla.mp3",
                     "cover": "https://raw.githubusercontent.com/izaass/shell/main/default.jpg"
                }
           }
